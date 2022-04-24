@@ -39,4 +39,4 @@
 
 <p align="center">我们以命运的拼图起誓</p>
 
-<p align="center">追逐繁星，不像缸中金鱼那样终结一生</p>
+<p align="center">追逐繁星，绝不像缸中金鱼那般终结一生</p>
