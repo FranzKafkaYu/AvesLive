@@ -1,3 +1,5 @@
+> 注：该仓库所有内容已于2022年4月22日获得小鸟文学官方微博授权   
+
 <p align="center">当一切的选项已被毁灭，我们仍拥有无尽的可能。</p>
   
 <p align="center">这就是小鸟文学最初吸引我的地方，貌似看不到希望，却仍旧自我而倔强</p>
@@ -17,7 +19,7 @@
 <img src="https://github.com/FranzKafkaYu/AvesLive/blob/main/media/83f36e9f45382d1a91ad3454691f9905.jpeg" width="400" height="400">
 </div>
 
-<p align="center">`我爱这庸俗的日常`</p>
+<p align="center">我爱这庸俗的日常</p>
   
 
 
